@@ -1,0 +1,17 @@
+# Terraform
+**/.terraform/
+**/.terraform.lock.hcl
+**/terraform.tfstate
+**/terraform.tfstate.*
+**/tfplan
+**/plan-*.txt
+**/crash.log
+
+# Logs / artifacts
+*.log
+
+# OS / Editor
+.DS_Store
+Thumbs.db
+.vscode/
+keys.txt
